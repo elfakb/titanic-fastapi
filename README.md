@@ -14,11 +14,7 @@ Bu proje, Titanic yolcularının demografik verilerine dayanarak hayatta kalma i
 ## Canly API URL
 
 https://titanic-fastapi-hc7s.onrender.com/docs
-Harika örnekler seçmişsin! Özellikle 1. sınıf kadın yolcunun hayatta kalıp, 1. sınıf yaşlı erkek yolcunun hayatta kalamaması modelin mantıklı çalıştığını çok iyi kanıtlıyor.
 
-İşte GitHub **README.md** dosyana direkt kopyalayıp yapıştırabileceğin, profesyonelce düzenlenmiş "Örnek Senaryolar" bölümü:
-
----
 
 ## Örnek Senaryolar ve Model Tahminleri (Demo)
 
