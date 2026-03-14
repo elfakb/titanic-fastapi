@@ -13,3 +13,4 @@ Bu proje, Titanic yolcularının demografik verilerine dayanarak hayatta kalma i
 
 ## Canly API URL
 
+https://titanic-fastapi-hc7s.onrender.com/docs
