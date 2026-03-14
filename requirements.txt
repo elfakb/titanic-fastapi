@@ -1,0 +1,6 @@
+pip install fastapi uvicorn scikit-learn pandas joblib
+fastapi
+uvicorn
+scikit-learn
+pandas
+joblib
