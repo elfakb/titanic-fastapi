@@ -5,7 +5,7 @@ import joblib
 
 
 
-df = pd.read_csv('/Users/elifakbas/Desktop/AI Engineering/+AI ENGINEERING ROADMAP/Bölüm 1-Python & ML Temelleri/Proje 1/titanic_project/Titanic-Dataset.csv')
+df = pd.read_csv('Titanic-Dataset.csv')
 
 df = df[['Pclass', 'Sex', 'Age', 'SibSp', 'Parch', 'Fare', 'Survived']] # df için değişkenleri aldık 
 df['Sex'] = df['Sex'].map({'male':0 , 'female': 1}) # cinsiyet değişkenini sayısal hale getirdik
